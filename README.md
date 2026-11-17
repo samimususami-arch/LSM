@@ -1,2 +1,2 @@
 # LSM
-for personal use and practice
+for practice

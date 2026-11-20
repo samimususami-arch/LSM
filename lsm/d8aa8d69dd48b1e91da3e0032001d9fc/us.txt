@@ -1,1 +1,1 @@
-# LSM: currently no public verified nodes
+trojan://BU4Sr6jWcc78Eh06srysDwhzc-Than@48.102.218.118:8443?alpn=h2%2Ch3%2Chttp%2F1.1&fp=randomized&security=tls&sni=ru.federal-usa.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%C2%B7%20PC-A76V%20%C2%B7%20S01%20%C2%B7%20TR-5PIXLV6B
